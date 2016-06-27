@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/MarcMalignan/discord-rss-bot.git"
   },
+  "scripts": {
+    "nodemon": "nodemon index.js"
+  },
   "author": "Marc Malignan",
   "license": "MIT",
   "bugs": {
@@ -14,6 +17,12 @@
   },
   "homepage": "https://github.com/MarcMalignan/discord-rss-bot#readme",
   "dependencies": {
-    "discordie": "^0.7.2"
+    "bluebird": "^3.4.1",
+    "discordie": "^0.4.4",
+    "parse-rss": "^1.0.3",
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
   }
 }
