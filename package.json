@@ -1,0 +1,19 @@
+{
+  "name": "discord-rss-bot",
+  "version": "1.0.0",
+  "description": "Discord RSS bot.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcMalignan/discord-rss-bot.git"
+  },
+  "author": "Marc Malignan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcMalignan/discord-rss-bot/issues"
+  },
+  "homepage": "https://github.com/MarcMalignan/discord-rss-bot#readme",
+  "dependencies": {
+    "discordie": "^0.7.2"
+  }
+}
