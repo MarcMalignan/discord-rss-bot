@@ -8,7 +8,7 @@
     "url": "git+https://github.com/MarcMalignan/discord-rss-bot.git"
   },
   "scripts": {
-    "nodemon": "nodemon index.js"
+    "nodemon": "nodemon index.js -e js"
   },
   "author": "Marc Malignan",
   "license": "MIT",
