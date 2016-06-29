@@ -36,5 +36,5 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
-config-private.js
+token.txt
 data/*
